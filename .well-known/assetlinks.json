@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.getsmartpg.twa",
+        "sha256_cert_fingerprints": ["DF:87:BC:5E:F1:16:E0:71:3C:06:39:E9:38:76:28:08:6A:D7:13:BA:67:25:04:AD:6D:47:13:BC:FE:2D:E3:18"]
+      }
+    }]
